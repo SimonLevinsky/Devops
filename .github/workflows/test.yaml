@@ -1,4 +1,4 @@
-yaml
+name: Workflow
 on:
   push:
     branches: [ main ]
